@@ -1,0 +1,249 @@
+.mainnav {
+  padding-left: 9%;
+  padding-right: 18%;
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.image1 {
+  padding-left: 5px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.home {
+  text-align: center;
+  padding: 3% 5%;
+  font-size: 13px;
+}
+
+.products {
+  text-align: center;
+  padding: 3% 5%;
+  font-size: 13px;
+}
+
+.about {
+  text-align: center;
+  padding: 3% 5%;
+  font-size: 13px;
+}
+
+.contact {
+  text-align: center;
+  padding: 3% 5%;
+  font-size: 13px;
+}
+
+.carousel-caption {
+  text-align: left;
+  margin-left: auto;
+}
+
+.img-overlay {
+  width: 350px;
+  height: 150px;
+  background-color: orange;
+  opacity: 80%;
+  margin-bottom: 200px;
+  font-color: white;
+}
+
+.btn {
+  background: orange;
+  background-image: -webkit-linear-gradient(top, orange, orange);
+  background-image: -moz-linear-gradient(top, orange, orange);
+  background-image: -ms-linear-gradient(top, orange, orange);
+  background-image: -o-linear-gradient(top, orange, orange);
+  background-image: linear-gradient(to bottom, orange, orange);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: white;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: white;
+  background-image: -webkit-linear-gradient(top, white, white);
+  background-image: -moz-linear-gradient(top, white, white);
+  background-image: -ms-linear-gradient(top, white, white);
+  background-image: -o-linear-gradient(top, white, white);
+  background-image: linear-gradient(to bottom, white, white);
+  text-decoration: none;
+}
+
+.row {
+  padding-top: 3rem;
+}
+
+.card {
+  background: #666;
+}
+
+.cbc {
+  padding-bottom: 3%;
+}
+
+.naming {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 25px;
+}
+
+.new {
+  padding-left: 7rem;
+}
+
+.pro {
+  margin: 20px;
+  padding-top: 10px;
+  border: 15px black;
+}
+
+.prot {
+  text-align: center;
+}
+
+.press {
+  padding: 1%;
+}
+
+.press-image {
+  margin: 10px
+}
+
+.view {
+  padding: 3% 46%;
+}
+
+.companies {
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  background-color: orange;
+  color: #fff;
+  text-align: center;
+}
+
+.incc {
+  background-color: #666;
+  color: white;
+  padding: 0.3%;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.end {
+  background-color: orange;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.table {
+  align: right;
+
+}
+
+.pics {
+  margin-right: auto;
+}
+
+.btn1 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 24px;
+  background: ORANGE;
+  padding: 23px 8px 17px 8px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: BLACK;
+  text-decoration: none;
+}
+
+.body {
+  font-family: "Roboto", sans-serif;
+}
+
+.Toplink {
+  color: black;
+}
+
+.about_us {
+  background-color: orange;
+  opacity: 50%;
+}
+
+.info {
+  padding: 5%;
+  font-size: 20px;
+  background-color: #EAEAEA;
+}
+
+.abc {
+  background: #EAEAEA;
+}
+
+.press1 {
+  padding: 3%;
+}
+
+.homeabout {
+  padding: 1%;
+  text-align: center;
+}
+
+.form-div {
+  padding-left: 50px;
+}
+.formrow{
+  padding-left: 50px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 25px;
+  width: 650px;
+}
+.enq{
+  padding-left: 70px;
+  width: 600px;
+}
+.texta{
+  width: 600px;
+  padding-left: 50px;
+}
+#textar{
+  padding-left: 70px;
+}
+.captcha{
+  padding-left: 50px;
+  padding-top: 25px;
+}
+.re{
+  width: 90px;
+}
+.btn-submit{
+  margin-top: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: 50px;
+  font-size: 15;
+  background-color: orange;
+  border-color: orange;
+  color: white;
+}
+.reicon{
+  padding-top: 10px;
+  padding-left: 15px;
+}
